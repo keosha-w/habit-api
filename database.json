@@ -1,0 +1,18 @@
+{
+    "habits": [
+        {
+            "id": 1,
+            "title": "Water",
+            "description": "Drink 64 oz of water a day"
+        }
+    ], 
+    "userHabits": [], 
+    "users": [
+        {
+            "id": 1,
+            "name": "Keosha",
+            "email": "kishante@gmail.com"
+        }
+    ],
+    "timeFrame": []
+}
